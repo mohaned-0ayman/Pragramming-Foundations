@@ -1,3 +1,4 @@
+# IF Condition
 Guss = ("What is My Favorite Food ?")
 
 if Guss == "Cookies":
