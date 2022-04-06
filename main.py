@@ -1,8 +1,8 @@
-#  Prints Out The Favorite City
+Guss = ("What is My Favorite Food ?")
 
-def favorite_city(name):
-    print("One Of My Favorite city is", name)
+if Guss == "Cookies":
+    print("Yep! Amazing!")
+else:
+    print("Yuck! That is not it!")
 
-    favorite_city("cairo")
-    favorite_city("Alex")
-    favorite_city("hurdaga")
+print("Thanks For playing!")
